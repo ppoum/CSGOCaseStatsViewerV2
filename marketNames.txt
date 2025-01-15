@@ -1,3 +1,17 @@
+Shanghai 2024 Contenders Sticker Capsule;Capsule
+Shanghai 2024 Challengers Sticker Capsule;Capsule
+Shanghai 2024 Legends Sticker Capsule;Capsule
+Shanghai 2024 Contenders Autograph Capsule;Capsule
+Shanghai 2024 Challengers Autograph Capsule;Capsule
+Shanghai 2024 Legends Autograph Capsule;Capsule
+Shanghai 2024 Champions Autograph Capsule;Capsule
+Shanghai 2024 Ancient Souvenir Package;Souvenir Package
+Shanghai 2024 Anubis Souvenir Package;Souvenir Package
+Shanghai 2024 Dust II Souvenir Package;Souvenir Package
+Shanghai 2024 Inferno Souvenir Package;Souvenir Package
+Shanghai 2024 Mirage Souvenir Package;Souvenir Package
+Shanghai 2024 Nuke Souvenir Package;Souvenir Package
+Shanghai 2024 Vertigo Souvenir Package;Souvenir Package
 Copenhagen 2024 Contenders Autograph Capsule;Capsule
 Copenhagen 2024 Challengers Autograph Capsule;Capsule
 Copenhagen 2024 Legends Autograph Capsule;Capsule
